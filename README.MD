@@ -29,7 +29,8 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [ChatGPT 4o Mini](https://chat.openai.com/)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos+profissionais+em+minutos%2C+n%C3%A3o+em+horas.&scenario=custom)
+- [ElevenLabs](https://elevenlabs.io/)
+- [CapCut](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos+profissionais+em+minutos%2C+n%C3%A3o+em+horas.&scenario=custom)
 
 ## 🧠 Prompts
 
