@@ -24,6 +24,10 @@ Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de
 seguem abaixo.
 
 <a href="https://github.com/AFVELOSO13/podcast-prompt/blob/main/output/PodcastEditado.mp3" title="View PodCast now"> 📕Clique aqui para Ouvir</a>
+<audio controls>
+        <source src="https://github.com/AFVELOSO13/podcast-prompt/blob/main/output/PodcastEditado.mp3?raw=true" type="audio/mp3">
+        Seu navegador não suporta a tag de áudio.
+    </audio>
 
 ## 💻 Tecnologias utilizadas no projeto
 
